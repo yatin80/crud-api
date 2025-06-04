@@ -1,0 +1,7 @@
+.iconChange {
+    fill: red;
+}
+
+.iconChange:hover {
+    fill: blue;
+}
